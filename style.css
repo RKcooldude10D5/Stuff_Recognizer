@@ -1,0 +1,15 @@
+body{
+    background: linear-gradient(lightgrey 0%, white 100%);
+    font-family: cursive;
+    color: rgb(3, 98, 252);
+}
+.heading{
+    font-family: Impact;
+}
+#camera{
+    background-color:grey;
+    border: 2px dotted;
+    border-color: darkgrey;
+    width: 350px;
+    height: 300px;
+}
